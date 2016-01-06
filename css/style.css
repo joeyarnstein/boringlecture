@@ -1,14 +1,30 @@
-h2.intro {
+.intro {
   text-align: center;
-  padding: 25px 0;
+  font-family: Open Sans Condensed;
+  color: white;
+  background-color: black;
+  max-width: 50%;
+  margin: auto;
+  padding: 25px;
+  margin-bottom: 10px;
 }
 
-img.intro {
+span.fancy {
+  font-size: 50px;
+  font-family: cursive;
+}
+
+span.em {
+  font-style: italic;
+  color: red;
+}
+
+img {
   display: block;
   margin: auto;
 }
 
-p.intro {
+p {
   text-align: left;
   max-width: 50%;
   margin: auto;
@@ -18,9 +34,4 @@ p.intro {
 body {
   background-color: #9f9eb5;
 
-}
-
-header {
-  text-align: center;
-  font-family: Open Sans Condensed, sans-serif;
 }
