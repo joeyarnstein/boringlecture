@@ -1,0 +1,26 @@
+h2.intro {
+  text-align: center;
+  padding: 25px 0;
+}
+
+img.intro {
+  display: block;
+  margin: auto;
+}
+
+p.intro {
+  text-align: left;
+  max-width: 50%;
+  margin: auto;
+  padding-top: 2em;
+}
+
+body {
+  background-color: #9f9eb5;
+
+}
+
+header {
+  text-align: center;
+  font-family: Open Sans Condensed, sans-serif;
+}
